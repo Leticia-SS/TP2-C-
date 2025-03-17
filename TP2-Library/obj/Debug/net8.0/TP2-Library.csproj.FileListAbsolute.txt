@@ -1,0 +1,34 @@
+C:\Users\Darkw\source\repos\Exercicio01\TP2-Library\bin\Debug\net8.0\TP2-Library.deps.json
+C:\Users\Darkw\source\repos\Exercicio01\TP2-Library\bin\Debug\net8.0\TP2-Library.dll
+C:\Users\Darkw\source\repos\Exercicio01\TP2-Library\bin\Debug\net8.0\TP2-Library.pdb
+C:\Users\Darkw\source\repos\Exercicio01\TP2-Library\obj\Debug\net8.0\TP2-Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darkw\source\repos\Exercicio01\TP2-Library\obj\Debug\net8.0\TP2-Library.AssemblyInfoInputs.cache
+C:\Users\Darkw\source\repos\Exercicio01\TP2-Library\obj\Debug\net8.0\TP2-Library.AssemblyInfo.cs
+C:\Users\Darkw\source\repos\Exercicio01\TP2-Library\obj\Debug\net8.0\TP2-Library.csproj.CoreCompileInputs.cache
+C:\Users\Darkw\source\repos\Exercicio01\TP2-Library\obj\Debug\net8.0\TP2-Library.dll
+C:\Users\Darkw\source\repos\Exercicio01\TP2-Library\obj\Debug\net8.0\refint\TP2-Library.dll
+C:\Users\Darkw\source\repos\Exercicio01\TP2-Library\obj\Debug\net8.0\TP2-Library.pdb
+C:\Users\Darkw\source\repos\Exercicio01\TP2-Library\obj\Debug\net8.0\ref\TP2-Library.dll
+C:\Users\Darkw\source\repos\TP2-C#\TP2-Library\bin\Debug\net8.0\TP2-Library.deps.json
+C:\Users\Darkw\source\repos\TP2-C#\TP2-Library\bin\Debug\net8.0\TP2-Library.dll
+C:\Users\Darkw\source\repos\TP2-C#\TP2-Library\bin\Debug\net8.0\TP2-Library.pdb
+C:\Users\Darkw\source\repos\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darkw\source\repos\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.AssemblyInfoInputs.cache
+C:\Users\Darkw\source\repos\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.AssemblyInfo.cs
+C:\Users\Darkw\source\repos\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.csproj.CoreCompileInputs.cache
+C:\Users\Darkw\source\repos\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.dll
+C:\Users\Darkw\source\repos\TP2-C#\TP2-Library\obj\Debug\net8.0\refint\TP2-Library.dll
+C:\Users\Darkw\source\repos\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.pdb
+C:\Users\Darkw\source\repos\TP2-C#\TP2-Library\obj\Debug\net8.0\ref\TP2-Library.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\bin\Debug\net8.0\TP2-Library.deps.json
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\bin\Debug\net8.0\TP2-Library.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\bin\Debug\net8.0\TP2-Library.pdb
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.AssemblyInfoInputs.cache
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.AssemblyInfo.cs
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.csproj.CoreCompileInputs.cache
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\obj\Debug\net8.0\refint\TP2-Library.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.pdb
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\obj\Debug\net8.0\ref\TP2-Library.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\TP2-Library\obj\Debug\net8.0\TP2-Library.sourcelink.json
