@@ -1,0 +1,15 @@
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\bin\Debug\net8.0\exercise10.exe
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\bin\Debug\net8.0\exercise10.deps.json
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\bin\Debug\net8.0\exercise10.runtimeconfig.json
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\bin\Debug\net8.0\exercise10.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\bin\Debug\net8.0\exercise10.pdb
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\obj\Debug\net8.0\exercise10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\obj\Debug\net8.0\exercise10.AssemblyInfoInputs.cache
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\obj\Debug\net8.0\exercise10.AssemblyInfo.cs
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\obj\Debug\net8.0\exercise10.csproj.CoreCompileInputs.cache
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\obj\Debug\net8.0\exercise10.sourcelink.json
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\obj\Debug\net8.0\exercise10.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\obj\Debug\net8.0\refint\exercise10.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\obj\Debug\net8.0\exercise10.pdb
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\obj\Debug\net8.0\exercise10.genruntimeconfig.cache
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise10\obj\Debug\net8.0\ref\exercise10.dll
