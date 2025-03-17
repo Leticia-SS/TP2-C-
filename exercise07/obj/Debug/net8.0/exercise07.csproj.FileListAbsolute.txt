@@ -1,0 +1,54 @@
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\bin\Debug\net8.0\exercise07.exe
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\bin\Debug\net8.0\exercise07.deps.json
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\bin\Debug\net8.0\exercise07.runtimeconfig.json
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\bin\Debug\net8.0\exercise07.dll
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\bin\Debug\net8.0\exercise07.pdb
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\bin\Debug\net8.0\TP2-Library.dll
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\bin\Debug\net8.0\TP2-Library.pdb
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\obj\Debug\net8.0\exercise07.csproj.AssemblyReference.cache
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\obj\Debug\net8.0\exercise07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\obj\Debug\net8.0\exercise07.AssemblyInfoInputs.cache
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\obj\Debug\net8.0\exercise07.AssemblyInfo.cs
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\obj\Debug\net8.0\exercise07.csproj.CoreCompileInputs.cache
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\obj\Debug\net8.0\exercise07.csproj.Up2Date
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\obj\Debug\net8.0\exercise07.dll
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\obj\Debug\net8.0\refint\exercise07.dll
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\obj\Debug\net8.0\exercise07.pdb
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\obj\Debug\net8.0\exercise07.genruntimeconfig.cache
+C:\Users\Darkw\source\repos\Exercicio01\exercise07\obj\Debug\net8.0\ref\exercise07.dll
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\bin\Debug\net8.0\exercise07.exe
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\bin\Debug\net8.0\exercise07.deps.json
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\bin\Debug\net8.0\exercise07.runtimeconfig.json
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\bin\Debug\net8.0\exercise07.dll
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\bin\Debug\net8.0\exercise07.pdb
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\bin\Debug\net8.0\TP2-Library.dll
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\bin\Debug\net8.0\TP2-Library.pdb
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.csproj.AssemblyReference.cache
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.AssemblyInfoInputs.cache
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.AssemblyInfo.cs
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.csproj.CoreCompileInputs.cache
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.csproj.Up2Date
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.dll
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\obj\Debug\net8.0\refint\exercise07.dll
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.pdb
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.genruntimeconfig.cache
+C:\Users\Darkw\source\repos\TP2-C#\exercise07\obj\Debug\net8.0\ref\exercise07.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\bin\Debug\net8.0\exercise07.exe
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\bin\Debug\net8.0\exercise07.deps.json
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\bin\Debug\net8.0\exercise07.runtimeconfig.json
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\bin\Debug\net8.0\exercise07.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\bin\Debug\net8.0\exercise07.pdb
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\bin\Debug\net8.0\TP2-Library.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\bin\Debug\net8.0\TP2-Library.pdb
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.csproj.AssemblyReference.cache
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.AssemblyInfoInputs.cache
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.AssemblyInfo.cs
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.csproj.CoreCompileInputs.cache
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.csproj.Up2Date
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\obj\Debug\net8.0\refint\exercise07.dll
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.pdb
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\obj\Debug\net8.0\exercise07.genruntimeconfig.cache
+C:\Users\Darkw\OneDrive\Documentos\Leticia\Faculdade\C# Fundamentals\TP2-C#\exercise07\obj\Debug\net8.0\ref\exercise07.dll
